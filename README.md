@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/12446953/208367719-4ef7922f-4001-41f7-aa9f-076e462d1325.png" width="60%">
-aaa
+
 # AnyGrasp SDK
 AnyGrasp SDK for grasp detection & tracking.
 
